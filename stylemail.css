@@ -1,0 +1,38 @@
+.order-form .container {
+    color: #4c4c4c;
+    padding: 20px;
+    box-shadow: 0 0 10px 0 black;
+    margin-left: 300px;
+    margin-right: 200px;
+    background-image: url("C:\Users\Digambar\Desktop\coffee\loginbg.jpg");
+  }
+
+  .order-form-label {
+    margin: 8px 0 0 0;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .order-form-input {
+    margin-top: 2%;  
+    width: 100%;
+    padding: 8px 8px;
+    border-width: 1px ;
+    border-style: solid  ;
+    border-radius: 3px ;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.2em;
+    background-color: transparent;
+    border-color: #cccccc;
+  }
+
+  .btn-submit:hover {
+    background-color: #f1dddd ;
+    width: 100%;
+  }
+  .btn{
+      width: 100%;
+  }
